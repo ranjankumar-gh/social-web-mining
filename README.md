@@ -7,4 +7,4 @@
 - [Social Network Analysis - Coursera](https://www.coursera.org/course/sna)
 
 ## Notebooks
-
+- [Twitter Analytics](https://github.com/ranjankumar-gh/twitter-analytics/blob/master/notebooks/twitter-analytics.ipynb)
