@@ -1,4 +1,4 @@
-# Twitter Analytics
+# Social Web Mining
 
 ## Notebooks
 - [Twitter Analytics](https://github.com/ranjankumar-gh/twitter-analytics/blob/master/notebooks/twitter-analytics.ipynb)
