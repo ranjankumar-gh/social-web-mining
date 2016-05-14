@@ -2,7 +2,7 @@
 Social Web Mining / Social Web Analytics / Social Network Analytics
 
 ## Notebooks
-- [Twitter Analytics](https://github.com/ranjankumar-gh/twitter-analytics/blob/master/notebooks/twitter-analytics.ipynb)
+- [Mining Twitter](https://github.com/ranjankumar-gh/social-web-mining/blob/master/notebooks/mining-twitter.ipynb)
 
 ## References
 - [Mining the Social Web 2nd Edition- Book](https://www.amazon.in/Mining-Social-Web-Facebook-LinkedIn-ebook/dp/B00FNBWNLU)
